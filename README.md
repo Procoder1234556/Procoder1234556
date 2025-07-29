@@ -28,7 +28,6 @@ he/him
 ⚡ Fun fact:
 I once helped launch a pan-India GTM campaign across 15+ colleges… using memes, peer-led distribution, and zero ad spend!
 
-Would you like me to help turn this into a GitHub README.md file or style it for a GitHub profile page?
 
 
 
