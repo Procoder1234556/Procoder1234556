@@ -64,7 +64,7 @@ I once helped launch a pan-India GTM campaign across 15+ colleges… using memes
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Procoder1234556&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # My daily routine 😤😤😵‍💫😁
-<img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhwOXNvMWVheHVrMnhrdTFmcjRicTZxMHhjMTBlbjNtNHprdzZ1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnhpl4IeYgU7MCBdV2/giphy.gif" alt = "push" width = 25px/>
+<img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhwOXNvMWVheHVrMnhrdTFmcjRicTZxMHhjMTBlbjNtNHprdzZ1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnhpl4IeYgU7MCBdV2/giphy.gif" alt = "push" width = "500"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Procoder1234556&theme=radical&no-frame=true&no-bg=true&margin-w=4)
