@@ -28,7 +28,7 @@ he/him
 ⚡ Fun fact:
 I once helped launch a pan-India GTM campaign across 15+ colleges… using memes, peer-led distribution, and zero ad spend!
 
-<img src="" width="500" alt="NUX_Octodex">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHgzZXVrc3lwdnMzY3Boamw4cTB2aGQyZGhsNm45bmE2N3JuejNseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500" alt="My_logo">
 
 <br><br>     
 
@@ -44,7 +44,8 @@ I once helped launch a pan-India GTM campaign across 15+ colleges… using memes
 
 
 ## 🌐 Socials:
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nikunj56428) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p03490978@gmail.com) 
+<a href = "https://x.com/nikunj56428"><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2N0MXc1em5yMWJoMDl5ZXdwc2phODJhcmwzM2kxcmRwM3IwNWJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TptMT3yvTNmdqtFlrp/giphy.gif" width = "100"></a>
+<a href = "mailto:p03490978@gmail.com"><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcxMGJpeWpjdnB0M2R4eWdtOTRraWFvejJqYmptb3R5Zm51NGQ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vs0OcX9G44fMEWikrO/giphy.gif" width = "100"></a>
 <a href = "www.linkedin.com/in/nikunjrustagi"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 <a href = "https://www.instagram.com/nikunjrustagi"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 
