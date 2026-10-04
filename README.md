@@ -75,5 +75,5 @@ B.Tech CSE student at GGSIPU Delhi (2024 to 2028), based in New Delhi. I work wh
 <div align="center">
   <sub>Open to Solana, AI agent, and developer tooling collaborations. If it runs on Linux and touches the chain, let's talk.</sub>
   <br />
-  <sub>Profile card based on <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew Grant's self-updating README</a>.</sub>
+ 
 </div>
