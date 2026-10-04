@@ -1,10 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Procoder1234556">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Procoder1234556/Procoder1234556/main/dark_mode.svg">
-    <img alt="Nikunj's GitHub profile card" src="https://raw.githubusercontent.com/Procoder1234556/Procoder1234556/main/light_mode.svg">
-  </picture>
+ 
 </a>
 
 <br />
