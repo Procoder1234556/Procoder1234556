@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="./assets/avatar.png" alt="Nikunj" width="140" height="140" />
+
 
 # Hey, I'm Nikunj
 
