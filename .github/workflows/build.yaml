@@ -38,6 +38,7 @@ jobs:
         run: python today.py
 
       - name: Commit and push
+        if: always()   # also saves cache progress if the step above fails
         run: |-
           git add .
           git diff --staged --quiet && echo "No changes to commit" && exit 0
