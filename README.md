@@ -1,12 +1,15 @@
 <div align="center">
 
 <a href="https://github.com/Procoder1234556">
- 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Procoder1234556/Procoder1234556/main/dark_mode.svg">
+    <img alt="Nikunj's GitHub profile card" src="https://raw.githubusercontent.com/Procoder1234556/Procoder1234556/main/light_mode.svg">
+  </picture>
 </a>
 
 <br />
 
-
+<img src="./assets/avatar.png" alt="Nikunj" width="140" height="140" />
 
 # Hey, I'm Nikunj
 
@@ -72,5 +75,5 @@ B.Tech CSE student at GGSIPU Delhi (2024 to 2028), based in New Delhi. I work wh
 <div align="center">
   <sub>Open to Solana, AI agent, and developer tooling collaborations. If it runs on Linux and touches the chain, let's talk.</sub>
   <br />
- 
+  <sub>Profile card based on <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew Grant's self-updating README</a>.</sub>
 </div>
